@@ -1,4 +1,4 @@
-# PLA-Bluetooth-Environment
+# Advanced Topics in Computer and Network Security Project
 Repository for the Advanced Topics in Computer and Network Security project, UniPD, M.Sc. Computer Science
 
 ## Structure
@@ -9,7 +9,7 @@ In this part, students are required to read papers on specific topics and create
 ### Third Part of the Course
 In this part, students are required to select a project and create a paper on it. Here, you will find everything useful, from meetings and technical details to reference papers and more.
 
-Our project involves the creation of a wireless Bluetooth channel describing authentication/missed detection and false alarm. This project was guided under the supervision of PhD Alessandro Lotto.
+Our project involves the creation of a wireless Bluetooth channel describing authentication/missed detection and false alarm.
 
 ### More on the Project
 
