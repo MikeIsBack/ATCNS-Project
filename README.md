@@ -1,5 +1,5 @@
 # Advanced Topics in Computer and Network Security Project
-Repository for the Advanced Topics in Computer and Network Security project, UniPD, M.Sc. Computer Science
+A project for the Advanced Topics in Computer and Network Security course - MSc Computer Science - Università degli Studi di Padova.
 
 ## Structure
 
