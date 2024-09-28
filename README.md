@@ -1,5 +1,5 @@
 # Physical Layer Authentication in Bluetooth communications
-A project for the Advanced Topics in Computer and Network Security course - MSc Computer Science - University of Padova.
+**A project for the Advanced Topics in Computer and Network Security course - MSc Computer Science - University of Padova.**
 
 **Physical Layer Authentication (PLA)** is a promising approach for ensuring secure wireless communications by leveraging the inherent characteristics of the communication channel itself. In this study, we present a case study focused on Bluetooth channel communications over defined distance ranges, where we investigate the potential of PLA techniques to authenticate legitimate transmissions while distinguishing them from spoofing attacks or non-authentic messages.
 
