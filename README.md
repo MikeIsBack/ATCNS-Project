@@ -1,17 +1,5 @@
-# Advanced Topics in Computer and Network Security Project
+# Physical Layer Authentication in Bluetooth communications
 A project for the Advanced Topics in Computer and Network Security course - MSc Computer Science - Università degli Studi di Padova.
-
-## Structure
-
-### Second Part of the Course
-In this part, students are required to read papers on specific topics and create slides based on them. Here, you will find our study on **Pin and Password Security**, including paper readings and slides.
-
-### Third Part of the Course
-In this part, students are required to select a project and create a paper on it. Here, you will find everything useful, from meetings and technical details to reference papers and more.
-
-Our project involves the creation of a wireless Bluetooth channel describing authentication/missed detection and false alarm.
-
-### More on the Project
 
 **Physical Layer Authentication (PLA)** is a promising approach for ensuring secure wireless communications by leveraging the inherent characteristics of the communication channel itself. In this study, we present a case study focused on Bluetooth channel communications over defined distance ranges, where we investigate the potential of PLA techniques to authenticate legitimate transmissions while distinguishing them from spoofing attacks or non-authentic messages.
 
